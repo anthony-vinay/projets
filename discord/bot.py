@@ -242,4 +242,4 @@ bot.add_cog (cog_admin.Admin(bot))
 bot.add_cog(cog_help.Help(bot))
 
 
-bot.run('NzY1NDc5Njc1OTYyMTk1OTY5.X4VagA.f2d4jpdAzmYd_-Ip8yGWkoiHl0g')
+bot.run('TOKEN')
