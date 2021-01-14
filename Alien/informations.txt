@@ -1,0 +1,27 @@
+Informations sur le detenteur de la carte : B76797AIQQQ81X001W651W732X761W671B987N767F321
+Sexe detenteur : Bar
+Annee de naissance detenteur : 767
+Secteur de naissance : Hors Mars
+Prenom : AI
+Nombre de Tentacules : 8
+Sexe parent 1 : Xiq
+Annee de naissance parent 1 : 001
+Sexe parent 2 : Wuf
+Annee de naissance parent 2 : 651
+Sexe parent 3 : Wuf
+Annee de naissance parent 3 : 732
+Sexe epoux 1 : Xiq
+Annee de naissance epoux 1 : 761
+Voici le code de mariage numéro 1: B76797AIQQQ81X001W651W732X761ZZZZZZZZZZZZZZZZ
+Sexe epoux 2 : Wuf
+Annee de naissance epoux 2 : 671
+Voici le code de mariage numéro 2: B76797AIQQQ81X001W651W732W671ZZZZZZZZZZZZZZZZ
+Sexe epoux 3 : Bar
+Annee de naissance epoux 3 : 987
+Voici le code de mariage numéro 3: B76797AIQQQ81X001W651W732B987ZZZZZZZZZZZZZZZZ
+Sexe epoux 4 : Norf
+Annee de naissance epoux 4 : 767
+Voici le code de mariage numéro 4: B76797AIQQQ81X001W651W732N767ZZZZZZZZZZZZZZZZ
+Sexe epoux 5 : Foo
+Annee de naissance epoux 5 : 321
+Voici le code de mariage numéro 5: B76797AIQQQ81X001W651W732F321ZZZZZZZZZZZZZZZZ
